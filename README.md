@@ -1,4 +1,4 @@
-# Hello, I'm Fausto Saccoccio 👋
+# Hello, I'm Fausto 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fausto-saccoccio-6966201aa/)
 ![Profile Views](https://komarev.com/ghpvc/?username=FaustoS88&style=for-the-badge)
