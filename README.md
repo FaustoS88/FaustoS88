@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fausto-saccoccio-6966201aa/)
 ![Profile Views](https://komarev.com/ghpvc/?username=FaustoS88&style=for-the-badge)
 
-## 🚀 About Me
+###
 
 I'm a Full Stack Developer based in Barcelona, specializing in building robust web applications and AI-powered solutions. With a passion for both frontend and backend development, I create seamless, user-centric experiences while maintaining strong system architecture.
 
