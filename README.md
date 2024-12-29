@@ -8,7 +8,6 @@
 
 <div align="center">
   
-[![Visits](https://badges.pufler.dev/visits/FaustoS88/FaustoS88)](https://badges.pufler.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/fausto-saccoccio-6966201aa/)
 
 ```
